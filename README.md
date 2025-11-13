@@ -1,4 +1,4 @@
-## Hi there 👋
+![](./morty-ascii-art.png)
 
 <!--
 **Ilyasse-Fouaide/Ilyasse-Fouaide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
