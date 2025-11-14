@@ -1,3 +1,6 @@
+```php
+$ ilyassefetch --color 
+```
 ![](./mortyfetch.png)
 
 <!--
