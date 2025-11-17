@@ -1,6 +1,7 @@
-```php
-$ ilyassefetch --color 
-```
+```console
+┌──(ilyasse㉿ilyasse-os)-[~/dev-env/Ilyasse-Fouaide]
+└─$ mortyfetch --color --about
+```  
 ![](./mortyfetch.png)
 
 <!--
